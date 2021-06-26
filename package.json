@@ -4,5 +4,8 @@
   "description": "Repository for all kinds of questions related to algorithms and data structures I like to do in free time",
   "repository": "https://github.com/jjablonski-it/interview-questions",
   "author": "Jakub Jabłoński <jjablonski.it@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.0.5"
+  }
 }
